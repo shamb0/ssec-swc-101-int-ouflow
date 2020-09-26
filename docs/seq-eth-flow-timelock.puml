@@ -1,0 +1,141 @@
+@startuml
+
+skinparam sequence {
+ArrowColor MidnightBlue
+ActorBorderColor MidnightBlue
+LifeLineBorderColor MidnightBlue
+LifeLineBackgroundColor #A9DCDF
+
+ParticipantBorderColor MidnightBlue
+ParticipantBackgroundColor snow
+ParticipantFontSize 17
+ParticipantFontColor MidnightBlue
+
+ActorBackgroundColor aqua
+ActorFontColor MidnightBlue
+ActorFontSize 17
+}
+
+actor AdminWallet
+participant "TimeLock-Test" as tapp
+participant "kovan testnet" as tnet
+participant "TimeLockAttack.sol (Malicious)" as tatck
+participant "TimeLock.sol (Victim)" as tlck
+
+' Deploy Contracts
+
+== Deploy Victim Contract ==
+
+tapp -> tnet: deploy( TimeLock.sol )
+
+note left
+adminwallet-bal = 9.9979632 eth
+end note
+
+tapp -> tlck: sendTransaction( 2 eth )
+
+note left
+adminwallet-bal = (9.9979632 - 2) eth
+adminwallet-bal = 7.997783024 eth
+end note
+
+== Deploy Malicious Contract ==
+
+tapp -> tnet: deploy( TimeLockAttack.sol )
+tapp -> tatck: sendTransaction( 2 eth )
+
+note left
+adminwallet-bal = (7.997783024 - 2) eth
+adminwallet-bal = 5.993891928 eth
+end note
+
+== Call PWN function in Malicious Contract ==
+
+tapp -> tatck: pwnTimeLock( 1 eth )
+activate tatck
+
+note left
+adminwallet-bal = (x - 1) eth
+end note
+
+tatck -> tlck: deposit( 1 eth )
+activate tlck
+
+note right
+Update the deposit
+TimeStamp
+end note
+
+tlck -> tatck:
+deactivate tlck
+
+tatck -> tlck: ts = getDepositTimeStamp( )
+activate tlck
+
+tlck -> tatck:
+deactivate tlck
+
+tatck -> tatck:
+note right
+Compute value to
+overflow TimeStamp
+v2oflw = type(uint256),max - (ts -1)
+end note
+
+tatck -> tlck: increaseLockTime( v2oflw )
+activate tlck
+
+note right
+LockTime is forced to 0
+end note
+
+tlck -> tatck:
+deactivate tlck
+
+tatck -> tlck: remittBalance(  )
+activate tlck
+
+note right
+attack/malicious withdraw
+by making LockTime
+To 0
+end note
+
+tlck -> tatck:
+deactivate tlck
+
+tatck -> tapp:
+deactivate tatck
+
+note left
+adminwallet-bal = 5.993891928 eth
+end note
+
+== Check contract balance after PWN function ==
+
+tapp -> tatck: checkBalance()
+
+note right
+expected is 3 eth
+but seeing only 2 eth
+from trace
+end note
+
+tapp -> tlck: checkBalance()
+
+note right
+As expected seeing
+2 eth
+end note
+
+== Check contract balance @ exit ==
+
+tapp -> tatck: withdrawEth()
+
+tapp -> tlck: withdrawEth()
+
+note left
+adminwallet-bal = 9.99343276 eth
+end note
+
+@enduml

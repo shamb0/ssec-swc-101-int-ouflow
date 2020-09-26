@@ -1,0 +1,1627 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="919.55939mm"
+   height="325.85092mm"
+   viewBox="0 0 919.55939 325.85092"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="seq-eth-flow-timelock.svg">
+  <defs
+     id="defs2">
+    <filter
+       height="3"
+       id="ft4j05axqvemi"
+       width="3"
+       x="-1"
+       y="-1">
+      <feGaussianBlur
+         result="blurOut"
+         stdDeviation="2.0"
+         id="feGaussianBlur1242" />
+      <feColorMatrix
+         in="blurOut"
+         result="blurOut2"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"
+         id="feColorMatrix1244" />
+      <feOffset
+         dx="4.0"
+         dy="4.0"
+         in="blurOut2"
+         result="blurOut3"
+         id="feOffset1246" />
+      <feBlend
+         in="SourceGraphic"
+         in2="blurOut3"
+         mode="normal"
+         id="feBlend1248" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="1811.3293"
+     inkscape:cy="653.90495"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2560"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="bg"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(462.80349,14.758787)">
+    <g
+       id="g1575"
+       transform="matrix(0.26458333,0,0,0.26458333,-157.07745,-9.2025371)">
+      <rect
+         fill="#a9dcdf"
+         filter="url(#ft4j05axqvemi)"
+         height="348.8945"
+         style="stroke:#191970;stroke-width:1"
+         width="10"
+         x="713"
+         y="432.11719"
+         id="rect1253" />
+      <rect
+         fill="#a9dcdf"
+         filter="url(#ft4j05axqvemi)"
+         height="26.566401"
+         style="stroke:#191970;stroke-width:1"
+         width="10"
+         x="958.5"
+         y="478.81641"
+         id="rect1255" />
+      <rect
+         fill="#a9dcdf"
+         filter="url(#ft4j05axqvemi)"
+         height="14"
+         style="stroke:#191970;stroke-width:1"
+         width="10"
+         x="958.5"
+         y="534.51562"
+         id="rect1257" />
+      <rect
+         fill="#a9dcdf"
+         filter="url(#ft4j05axqvemi)"
+         height="19"
+         style="stroke:#191970;stroke-width:1"
+         width="10"
+         x="958.5"
+         y="652.04688"
+         id="rect1259" />
+      <rect
+         fill="#a9dcdf"
+         filter="url(#ft4j05axqvemi)"
+         height="34.132801"
+         style="stroke:#191970;stroke-width:1"
+         width="10"
+         x="958.5"
+         y="720.3125"
+         id="rect1261" />
+      <line
+         style="stroke:#191970;stroke-width:1;stroke-dasharray:5, 5"
+         x1="160"
+         x2="160"
+         y1="89.789101"
+         y2="1089.7734"
+         id="line1263" />
+      <line
+         style="stroke:#191970;stroke-width:1;stroke-dasharray:5, 5"
+         x1="297"
+         x2="297"
+         y1="89.789101"
+         y2="1089.7734"
+         id="line1265" />
+      <line
+         style="stroke:#191970;stroke-width:1;stroke-dasharray:5, 5"
+         x1="504"
+         x2="504"
+         y1="89.789101"
+         y2="1089.7734"
+         id="line1267" />
+      <line
+         style="stroke:#191970;stroke-width:1;stroke-dasharray:5, 5"
+         x1="718"
+         x2="718"
+         y1="89.789101"
+         y2="1089.7734"
+         id="line1269" />
+      <line
+         style="stroke:#191970;stroke-width:1;stroke-dasharray:5, 5"
+         x1="963"
+         x2="963"
+         y1="89.789101"
+         y2="1089.7734"
+         id="line1271" />
+      <text
+         fill="#191970"
+         font-family="sans-serif"
+         font-size="17px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="109"
+         x="103"
+         y="85.7798"
+         id="text1273">AdminWallet</text>
+      <circle
+         cx="160.5"
+         cy="13"
+         fill="#00ffff"
+         filter="url(#ft4j05axqvemi)"
+         style="stroke:#191970;stroke-width:2"
+         id="ellipse1275"
+         r="8" />
+      <path
+         d="m 160.5,21 v 27 m -13,-19 h 26 m -13,19 -13,15 m 13,-15 13,15"
+         fill="none"
+         filter="url(#ft4j05axqvemi)"
+         style="stroke:#191970;stroke-width:2"
+         id="path1277" />
+      <text
+         fill="#191970"
+         font-family="sans-serif"
+         font-size="17px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="109"
+         x="103"
+         y="1104.5532"
+         id="text1279">AdminWallet</text>
+      <circle
+         cx="160.5"
+         cy="1118.5625"
+         fill="#00ffff"
+         filter="url(#ft4j05axqvemi)"
+         style="stroke:#191970;stroke-width:2"
+         id="ellipse1281"
+         r="8" />
+      <path
+         d="m 160.5,1126.5625 v 27 m -13,-19 h 26 m -13,19 -13,15 m 13,-15 13,15"
+         fill="none"
+         filter="url(#ft4j05axqvemi)"
+         style="stroke:#191970;stroke-width:2"
+         id="path1283" />
+      <rect
+         fill="#fffafa"
+         filter="url(#ft4j05axqvemi)"
+         height="33.789101"
+         style="stroke:#191970;stroke-width:1.5"
+         width="134"
+         x="228"
+         y="51"
+         id="rect1285" />
+      <text
+         fill="#191970"
+         font-family="sans-serif"
+         font-size="17px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="120"
+         x="235"
+         y="73.7798"
+         id="text1287">TimeLock-Test</text>
+      <rect
+         fill="#fffafa"
+         filter="url(#ft4j05axqvemi)"
+         height="33.789101"
+         style="stroke:#191970;stroke-width:1.5"
+         width="134"
+         x="228"
+         y="1088.7734"
+         id="rect1289" />
+      <text
+         fill="#191970"
+         font-family="sans-serif"
+         font-size="17px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="120"
+         x="235"
+         y="1111.5532"
+         id="text1291">TimeLock-Test</text>
+      <rect
+         fill="#fffafa"
+         filter="url(#ft4j05axqvemi)"
+         height="33.789101"
+         style="stroke:#191970;stroke-width:1.5"
+         width="130"
+         x="437"
+         y="51"
+         id="rect1293" />
+      <text
+         fill="#191970"
+         font-family="sans-serif"
+         font-size="17px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="116"
+         x="444"
+         y="73.7798"
+         id="text1295">kovan testnet</text>
+      <rect
+         fill="#fffafa"
+         filter="url(#ft4j05axqvemi)"
+         height="33.789101"
+         style="stroke:#191970;stroke-width:1.5"
+         width="130"
+         x="437"
+         y="1088.7734"
+         id="rect1297" />
+      <text
+         fill="#191970"
+         font-family="sans-serif"
+         font-size="17px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="116"
+         x="444"
+         y="1111.5532"
+         id="text1299">kovan testnet</text>
+      <rect
+         fill="#fffafa"
+         filter="url(#ft4j05axqvemi)"
+         height="33.789101"
+         style="stroke:#191970;stroke-width:1.5"
+         width="270"
+         x="581"
+         y="51"
+         id="rect1301" />
+      <text
+         fill="#191970"
+         font-family="sans-serif"
+         font-size="17px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="256"
+         x="588"
+         y="73.7798"
+         id="text1303">TimeLockAttack.sol (Malicious)</text>
+      <rect
+         fill="#fffafa"
+         filter="url(#ft4j05axqvemi)"
+         height="33.789101"
+         style="stroke:#191970;stroke-width:1.5"
+         width="270"
+         x="581"
+         y="1088.7734"
+         id="rect1305" />
+      <text
+         fill="#191970"
+         font-family="sans-serif"
+         font-size="17px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="256"
+         x="588"
+         y="1111.5532"
+         id="text1307">TimeLockAttack.sol (Malicious)</text>
+      <rect
+         fill="#fffafa"
+         filter="url(#ft4j05axqvemi)"
+         height="33.789101"
+         style="stroke:#191970;stroke-width:1.5"
+         width="193"
+         x="865"
+         y="51"
+         id="rect1309" />
+      <text
+         fill="#191970"
+         font-family="sans-serif"
+         font-size="17px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="179"
+         x="872"
+         y="73.7798"
+         id="text1311">TimeLock.sol (Victim)</text>
+      <rect
+         fill="#fffafa"
+         filter="url(#ft4j05axqvemi)"
+         height="33.789101"
+         style="stroke:#191970;stroke-width:1.5"
+         width="193"
+         x="865"
+         y="1088.7734"
+         id="rect1313" />
+      <text
+         fill="#191970"
+         font-family="sans-serif"
+         font-size="17px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="179"
+         x="872"
+         y="1111.5532"
+         id="text1315">TimeLock.sol (Victim)</text>
+      <rect
+         fill="#a9dcdf"
+         filter="url(#ft4j05axqvemi)"
+         height="348.8945"
+         style="stroke:#191970;stroke-width:1"
+         width="10"
+         x="713"
+         y="432.11719"
+         id="rect1317" />
+      <rect
+         fill="#a9dcdf"
+         filter="url(#ft4j05axqvemi)"
+         height="26.566401"
+         style="stroke:#191970;stroke-width:1"
+         width="10"
+         x="958.5"
+         y="478.81641"
+         id="rect1319" />
+      <rect
+         fill="#a9dcdf"
+         filter="url(#ft4j05axqvemi)"
+         height="14"
+         style="stroke:#191970;stroke-width:1"
+         width="10"
+         x="958.5"
+         y="534.51562"
+         id="rect1321" />
+      <rect
+         fill="#a9dcdf"
+         filter="url(#ft4j05axqvemi)"
+         height="19"
+         style="stroke:#191970;stroke-width:1"
+         width="10"
+         x="958.5"
+         y="652.04688"
+         id="rect1323" />
+      <rect
+         fill="#a9dcdf"
+         filter="url(#ft4j05axqvemi)"
+         height="34.132801"
+         style="stroke:#191970;stroke-width:1"
+         width="10"
+         x="958.5"
+         y="720.3125"
+         id="rect1325" />
+      <rect
+         fill="#eeeeee"
+         filter="url(#ft4j05axqvemi)"
+         height="3"
+         style="stroke:#eeeeee;stroke-width:1"
+         width="1158.5"
+         x="3"
+         y="120.3555"
+         id="rect1327" />
+      <line
+         style="stroke:#000000;stroke-width:1"
+         x1="3"
+         x2="1161.5"
+         y1="120.3555"
+         y2="120.3555"
+         id="line1329" />
+      <line
+         style="stroke:#000000;stroke-width:1"
+         x1="3"
+         x2="1161.5"
+         y1="123.3555"
+         y2="123.3555"
+         id="line1331" />
+      <rect
+         fill="#eeeeee"
+         filter="url(#ft4j05axqvemi)"
+         height="23.132799"
+         style="stroke:#000000;stroke-width:2"
+         width="189"
+         x="487.75"
+         y="109.7891"
+         id="rect1333" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         font-weight="bold"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="170"
+         x="493.75"
+         y="125.856"
+         id="text1335">Deploy Victim Contract</text>
+      <polygon
+         fill="#191970"
+         points="492,165.0547 502,169.0547 492,173.0547 496,169.0547 "
+         style="stroke:#191970;stroke-width:1"
+         id="polygon1337" />
+      <line
+         style="stroke:#191970;stroke-width:1"
+         x1="297"
+         x2="498"
+         y1="169.0547"
+         y2="169.0547"
+         id="line1339" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="142"
+         x="304"
+         y="163.9888"
+         id="text1341">deploy( TimeLock.sol )</text>
+      <path
+         d="m 55,147.9219 v 25 h 233 v -15 l -10,-10 H 55"
+         fill="#fbfb77"
+         filter="url(#ft4j05axqvemi)"
+         style="stroke:#a80036;stroke-width:1"
+         id="path1343" />
+      <path
+         d="m 278,147.9219 v 10 h 10 l -10,-10"
+         fill="#fbfb77"
+         style="stroke:#a80036;stroke-width:1"
+         id="path1345" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="212"
+         x="61"
+         y="164.9888"
+         id="text1347">adminwallet-bal = 9.9979632 eth</text>
+      <polygon
+         fill="#191970"
+         points="951.5,211.7539 961.5,215.7539 951.5,219.7539 955.5,215.7539 "
+         style="stroke:#191970;stroke-width:1"
+         id="polygon1349" />
+      <line
+         style="stroke:#191970;stroke-width:1"
+         x1="297"
+         x2="957.5"
+         y1="215.75391"
+         y2="215.75391"
+         id="line1351" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="156"
+         x="304"
+         y="210.688"
+         id="text1353">sendTransaction( 2 eth )</text>
+      <path
+         d="m 24,187.0547 v 40 h 264 v -30 l -10,-10 H 24"
+         fill="#fbfb77"
+         filter="url(#ft4j05axqvemi)"
+         style="stroke:#a80036;stroke-width:1"
+         id="path1355" />
+      <path
+         d="m 278,187.0547 v 10 h 10 l -10,-10"
+         fill="#fbfb77"
+         style="stroke:#a80036;stroke-width:1"
+         id="path1357" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="243"
+         x="30"
+         y="204.1216"
+         id="text1359">adminwallet-bal = (9.9979632 - 2) eth</text>
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="228"
+         x="30"
+         y="219.25439"
+         id="text1361">adminwallet-bal = 7.997783024 eth</text>
+      <rect
+         fill="#eeeeee"
+         filter="url(#ft4j05axqvemi)"
+         height="3"
+         style="stroke:#eeeeee;stroke-width:1"
+         width="1158.5"
+         x="3"
+         y="256.88669"
+         id="rect1363" />
+      <line
+         style="stroke:#000000;stroke-width:1"
+         x1="3"
+         x2="1161.5"
+         y1="256.88669"
+         y2="256.88669"
+         id="line1365" />
+      <line
+         style="stroke:#000000;stroke-width:1"
+         x1="3"
+         x2="1161.5"
+         y1="259.88669"
+         y2="259.88669"
+         id="line1367" />
+      <rect
+         fill="#eeeeee"
+         filter="url(#ft4j05axqvemi)"
+         height="23.132799"
+         style="stroke:#000000;stroke-width:2"
+         width="211"
+         x="476.75"
+         y="246.3203"
+         id="rect1369" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         font-weight="bold"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="192"
+         x="482.75"
+         y="262.38721"
+         id="text1371">Deploy Malicious Contract</text>
+      <polygon
+         fill="#191970"
+         points="492,296.5859 502,300.5859 492,304.5859 496,300.5859 "
+         style="stroke:#191970;stroke-width:1"
+         id="polygon1373" />
+      <line
+         style="stroke:#191970;stroke-width:1"
+         x1="297"
+         x2="498"
+         y1="300.58591"
+         y2="300.58591"
+         id="line1375" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="183"
+         x="304"
+         y="295.51999"
+         id="text1377">deploy( TimeLockAttack.sol )</text>
+      <polygon
+         fill="#191970"
+         points="706,338.2852 716,342.2852 706,346.2852 710,342.2852 "
+         style="stroke:#191970;stroke-width:1"
+         id="polygon1379" />
+      <line
+         style="stroke:#191970;stroke-width:1"
+         x1="297"
+         x2="712"
+         y1="342.28519"
+         y2="342.28519"
+         id="line1381" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="156"
+         x="304"
+         y="337.21921"
+         id="text1383">sendTransaction( 2 eth )</text>
+      <path
+         d="m 8,313.5859 v 40 h 280 v -30 l -10,-10 H 8"
+         fill="#fbfb77"
+         filter="url(#ft4j05axqvemi)"
+         style="stroke:#a80036;stroke-width:1"
+         id="path1385" />
+      <path
+         d="m 278,313.5859 v 10 h 10 l -10,-10"
+         fill="#fbfb77"
+         style="stroke:#a80036;stroke-width:1"
+         id="path1387" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="259"
+         x="14"
+         y="330.6528"
+         id="text1389">adminwallet-bal = (7.997783024 - 2) eth</text>
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="228"
+         x="14"
+         y="345.78561"
+         id="text1391">adminwallet-bal = 5.993891928 eth</text>
+      <rect
+         fill="#eeeeee"
+         filter="url(#ft4j05axqvemi)"
+         height="3"
+         style="stroke:#eeeeee;stroke-width:1"
+         width="1158.5"
+         x="3"
+         y="383.418"
+         id="rect1393" />
+      <line
+         style="stroke:#000000;stroke-width:1"
+         x1="3"
+         x2="1161.5"
+         y1="383.418"
+         y2="383.418"
+         id="line1395" />
+      <line
+         style="stroke:#000000;stroke-width:1"
+         x1="3"
+         x2="1161.5"
+         y1="386.418"
+         y2="386.418"
+         id="line1397" />
+      <rect
+         fill="#eeeeee"
+         filter="url(#ft4j05axqvemi)"
+         height="23.132799"
+         style="stroke:#000000;stroke-width:2"
+         width="310"
+         x="427.25"
+         y="372.85159"
+         id="rect1399" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         font-weight="bold"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="291"
+         x="433.25"
+         y="388.91849"
+         id="text1401">Call PWN function in Malicious Contract</text>
+      <polygon
+         fill="#191970"
+         points="701,428.1172 711,432.1172 701,436.1172 705,432.1172 "
+         style="stroke:#191970;stroke-width:1"
+         id="polygon1403" />
+      <line
+         style="stroke:#191970;stroke-width:1"
+         x1="297"
+         x2="707"
+         y1="432.11719"
+         y2="432.11719"
+         id="line1405" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="136"
+         x="304"
+         y="427.0513"
+         id="text1407">pwnTimeLock( 1 eth )</text>
+      <path
+         d="m 85,410.9844 v 25 h 203 v -15 l -10,-10 H 85"
+         fill="#fbfb77"
+         filter="url(#ft4j05axqvemi)"
+         style="stroke:#a80036;stroke-width:1"
+         id="path1409" />
+      <path
+         d="m 278,410.9844 v 10 h 10 l -10,-10"
+         fill="#fbfb77"
+         style="stroke:#a80036;stroke-width:1"
+         id="path1411" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="182"
+         x="91"
+         y="428.0513"
+         id="text1413">adminwallet-bal = (x - 1) eth</text>
+      <polygon
+         fill="#191970"
+         points="946.5,474.8164 956.5,478.8164 946.5,482.8164 950.5,478.8164 "
+         style="stroke:#191970;stroke-width:1"
+         id="polygon1415" />
+      <line
+         style="stroke:#191970;stroke-width:1"
+         x1="723"
+         x2="952.5"
+         y1="478.81641"
+         y2="478.81641"
+         id="line1417" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="98"
+         x="730"
+         y="473.75049"
+         id="text1419">deposit( 1 eth )</text>
+      <path
+         d="m 973,450.1172 v 40 h 144 v -30 l -10,-10 H 973"
+         fill="#fbfb77"
+         filter="url(#ft4j05axqvemi)"
+         style="stroke:#a80036;stroke-width:1"
+         id="path1421" />
+      <path
+         d="m 1107,450.1172 v 10 h 10 l -10,-10"
+         fill="#fbfb77"
+         style="stroke:#a80036;stroke-width:1"
+         id="path1423" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="123"
+         x="979"
+         y="467.18411"
+         id="text1425">Update the deposit</text>
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="74"
+         x="979"
+         y="482.31689"
+         id="text1427">TimeStamp</text>
+      <polygon
+         fill="#191970"
+         points="734,501.3828 724,505.3828 734,509.3828 730,505.3828 "
+         style="stroke:#191970;stroke-width:1"
+         id="polygon1429" />
+      <line
+         style="stroke:#191970;stroke-width:1"
+         x1="728"
+         x2="962.5"
+         y1="505.38281"
+         y2="505.38281"
+         id="line1431" />
+      <polygon
+         fill="#191970"
+         points="946.5,530.5156 956.5,534.5156 946.5,538.5156 950.5,534.5156 "
+         style="stroke:#191970;stroke-width:1"
+         id="polygon1433" />
+      <line
+         style="stroke:#191970;stroke-width:1"
+         x1="723"
+         x2="952.5"
+         y1="534.51562"
+         y2="534.51562"
+         id="line1435" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="189"
+         x="730"
+         y="529.44971"
+         id="text1437">ts = getDepositTimeStamp( )</text>
+      <polygon
+         fill="#191970"
+         points="734,544.5156 724,548.5156 734,552.5156 730,548.5156 "
+         style="stroke:#191970;stroke-width:1"
+         id="polygon1439" />
+      <line
+         style="stroke:#191970;stroke-width:1"
+         x1="728"
+         x2="962.5"
+         y1="548.51562"
+         y2="548.51562"
+         id="line1441" />
+      <line
+         style="stroke:#191970;stroke-width:1"
+         x1="723"
+         x2="765"
+         y1="583.71478"
+         y2="583.71478"
+         id="line1443" />
+      <line
+         style="stroke:#191970;stroke-width:1"
+         x1="765"
+         x2="765"
+         y1="583.71478"
+         y2="596.71478"
+         id="line1445" />
+      <line
+         style="stroke:#191970;stroke-width:1"
+         x1="724"
+         x2="765"
+         y1="596.71478"
+         y2="596.71478"
+         id="line1447" />
+      <polygon
+         fill="#191970"
+         points="734,592.7148 724,596.7148 734,600.7148 730,596.7148 "
+         style="stroke:#191970;stroke-width:1"
+         id="polygon1449" />
+      <path
+         d="m 773,561.5156 v 55 h 249 v -45 l -10,-10 H 773"
+         fill="#fbfb77"
+         filter="url(#ft4j05axqvemi)"
+         style="stroke:#a80036;stroke-width:1"
+         id="path1451" />
+      <path
+         d="m 1012,561.5156 v 10 h 10 l -10,-10"
+         fill="#fbfb77"
+         style="stroke:#a80036;stroke-width:1"
+         id="path1453" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="114"
+         x="779"
+         y="578.58252"
+         id="text1455">Compute value to</text>
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="130"
+         x="779"
+         y="593.71527"
+         id="text1457">overflow TimeStamp</text>
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="228"
+         x="779"
+         y="608.84808"
+         id="text1459">v2oflw = type(uint256),max - (ts -1)</text>
+      <polygon
+         fill="#191970"
+         points="946.5,648.0469 956.5,652.0469 946.5,656.0469 950.5,652.0469 "
+         style="stroke:#191970;stroke-width:1"
+         id="polygon1461" />
+      <line
+         style="stroke:#191970;stroke-width:1"
+         x1="723"
+         x2="952.5"
+         y1="652.04688"
+         y2="652.04688"
+         id="line1463" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="171"
+         x="730"
+         y="646.98102"
+         id="text1465">increaseLockTime( v2oflw )</text>
+      <path
+         d="m 973,630.9141 v 25 h 168 v -15 l -10,-10 H 973"
+         fill="#fbfb77"
+         filter="url(#ft4j05axqvemi)"
+         style="stroke:#a80036;stroke-width:1"
+         id="path1467" />
+      <path
+         d="m 1131,630.9141 v 10 h 10 l -10,-10"
+         fill="#fbfb77"
+         style="stroke:#a80036;stroke-width:1"
+         id="path1469" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="147"
+         x="979"
+         y="647.98102"
+         id="text1471">LockTime is forced to 0</text>
+      <polygon
+         fill="#191970"
+         points="734,667.0469 724,671.0469 734,675.0469 730,671.0469 "
+         style="stroke:#191970;stroke-width:1"
+         id="polygon1473" />
+      <line
+         style="stroke:#191970;stroke-width:1"
+         x1="728"
+         x2="962.5"
+         y1="671.04688"
+         y2="671.04688"
+         id="line1475" />
+      <polygon
+         fill="#191970"
+         points="946.5,716.3125 956.5,720.3125 946.5,724.3125 950.5,720.3125 "
+         style="stroke:#191970;stroke-width:1"
+         id="polygon1477" />
+      <line
+         style="stroke:#191970;stroke-width:1"
+         x1="723"
+         x2="952.5"
+         y1="720.3125"
+         y2="720.3125"
+         id="line1479" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="108"
+         x="730"
+         y="715.24658"
+         id="text1481">remittBalance( )</text>
+      <path
+         d="m 973,684.0469 v 55 h 184 v -45 l -10,-10 H 973"
+         fill="#fbfb77"
+         filter="url(#ft4j05axqvemi)"
+         style="stroke:#a80036;stroke-width:1"
+         id="path1483" />
+      <path
+         d="m 1147,684.0469 v 10 h 10 l -10,-10"
+         fill="#fbfb77"
+         style="stroke:#a80036;stroke-width:1"
+         id="path1485" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="163"
+         x="979"
+         y="701.11377"
+         id="text1487">attack/malicious withdraw</text>
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="130"
+         x="979"
+         y="716.24658"
+         id="text1489">by making LockTime</text>
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="27"
+         x="979"
+         y="731.37939"
+         id="text1491">To 0</text>
+      <polygon
+         fill="#191970"
+         points="734,750.4453 724,754.4453 734,758.4453 730,754.4453 "
+         style="stroke:#191970;stroke-width:1"
+         id="polygon1493" />
+      <line
+         style="stroke:#191970;stroke-width:1"
+         x1="728"
+         x2="962.5"
+         y1="754.44531"
+         y2="754.44531"
+         id="line1495" />
+      <polygon
+         fill="#191970"
+         points="308,777.0117 298,781.0117 308,785.0117 304,781.0117 "
+         style="stroke:#191970;stroke-width:1"
+         id="polygon1497" />
+      <line
+         style="stroke:#191970;stroke-width:1"
+         x1="302"
+         x2="717"
+         y1="781.01172"
+         y2="781.01172"
+         id="line1499" />
+      <path
+         d="m 39,767.4453 v 25 h 249 v -15 l -10,-10 H 39"
+         fill="#fbfb77"
+         filter="url(#ft4j05axqvemi)"
+         style="stroke:#a80036;stroke-width:1"
+         id="path1501" />
+      <path
+         d="m 278,767.4453 v 10 h 10 l -10,-10"
+         fill="#fbfb77"
+         style="stroke:#a80036;stroke-width:1"
+         id="path1503" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="228"
+         x="45"
+         y="784.51221"
+         id="text1505">adminwallet-bal = 5.993891928 eth</text>
+      <rect
+         fill="#eeeeee"
+         filter="url(#ft4j05axqvemi)"
+         height="3"
+         style="stroke:#eeeeee;stroke-width:1"
+         width="1158.5"
+         x="3"
+         y="822.14447"
+         id="rect1507" />
+      <line
+         style="stroke:#000000;stroke-width:1"
+         x1="3"
+         x2="1161.5"
+         y1="822.14447"
+         y2="822.14447"
+         id="line1509" />
+      <line
+         style="stroke:#000000;stroke-width:1"
+         x1="3"
+         x2="1161.5"
+         y1="825.14447"
+         y2="825.14447"
+         id="line1511" />
+      <rect
+         fill="#eeeeee"
+         filter="url(#ft4j05axqvemi)"
+         height="23.132799"
+         style="stroke:#000000;stroke-width:2"
+         width="339"
+         x="412.75"
+         y="811.57812"
+         id="rect1513" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         font-weight="bold"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="320"
+         x="418.75"
+         y="827.64502"
+         id="text1515">Check contract balance after PWN function</text>
+      <polygon
+         fill="#191970"
+         points="706,881.9766 716,885.9766 706,889.9766 710,885.9766 "
+         style="stroke:#191970;stroke-width:1"
+         id="polygon1517" />
+      <line
+         style="stroke:#191970;stroke-width:1"
+         x1="297"
+         x2="712"
+         y1="885.97662"
+         y2="885.97662"
+         id="line1519" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="98"
+         x="304"
+         y="880.91058"
+         id="text1521">checkBalance()</text>
+      <path
+         d="m 723,849.7109 v 55 h 155 v -45 l -10,-10 H 723"
+         fill="#fbfb77"
+         filter="url(#ft4j05axqvemi)"
+         style="stroke:#a80036;stroke-width:1"
+         id="path1523" />
+      <path
+         d="m 868,849.7109 v 10 h 10 l -10,-10"
+         fill="#fbfb77"
+         style="stroke:#a80036;stroke-width:1"
+         id="path1525" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="110"
+         x="729"
+         y="866.77777"
+         id="text1527">expected is 3 eth</text>
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="134"
+         x="729"
+         y="881.91058"
+         id="text1529">but seeing only 2 eth</text>
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="67"
+         x="729"
+         y="897.04352"
+         id="text1531">from trace</text>
+      <polygon
+         fill="#191970"
+         points="951.5,943.8086 961.5,947.8086 951.5,951.8086 955.5,947.8086 "
+         style="stroke:#191970;stroke-width:1"
+         id="polygon1533" />
+      <line
+         style="stroke:#191970;stroke-width:1"
+         x1="297"
+         x2="957.5"
+         y1="947.80859"
+         y2="947.80859"
+         id="line1535" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="98"
+         x="304"
+         y="942.74268"
+         id="text1537">checkBalance()</text>
+      <path
+         d="m 968,919.1094 v 40 h 146 v -30 l -10,-10 H 968"
+         fill="#fbfb77"
+         filter="url(#ft4j05axqvemi)"
+         style="stroke:#a80036;stroke-width:1"
+         id="path1539" />
+      <path
+         d="m 1104,919.1094 v 10 h 10 l -10,-10"
+         fill="#fbfb77"
+         style="stroke:#a80036;stroke-width:1"
+         id="path1541" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="125"
+         x="974"
+         y="936.17627"
+         id="text1543">As expected seeing</text>
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="33"
+         x="974"
+         y="951.30908"
+         id="text1545">2 eth</text>
+      <rect
+         fill="#eeeeee"
+         filter="url(#ft4j05axqvemi)"
+         height="3"
+         style="stroke:#eeeeee;stroke-width:1"
+         width="1158.5"
+         x="3"
+         y="988.94141"
+         id="rect1547" />
+      <line
+         style="stroke:#000000;stroke-width:1"
+         x1="3"
+         x2="1161.5"
+         y1="988.94141"
+         y2="988.94141"
+         id="line1549" />
+      <line
+         style="stroke:#000000;stroke-width:1"
+         x1="3"
+         x2="1161.5"
+         y1="991.94141"
+         y2="991.94141"
+         id="line1551" />
+      <rect
+         fill="#eeeeee"
+         filter="url(#ft4j05axqvemi)"
+         height="23.132799"
+         style="stroke:#000000;stroke-width:2"
+         width="243"
+         x="460.75"
+         y="978.375"
+         id="rect1553" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         font-weight="bold"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="224"
+         x="466.75"
+         y="994.44189"
+         id="text1555">Check contract balance @ exit</text>
+      <polygon
+         fill="#191970"
+         points="706,1028.6406 716,1032.6406 706,1036.6406 710,1032.6406 "
+         style="stroke:#191970;stroke-width:1"
+         id="polygon1557" />
+      <line
+         style="stroke:#191970;stroke-width:1"
+         x1="297"
+         x2="712"
+         y1="1032.6406"
+         y2="1032.6406"
+         id="line1559" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="86"
+         x="304"
+         y="1027.5747"
+         id="text1561">withdrawEth()</text>
+      <polygon
+         fill="#191970"
+         points="951.5,1062.7734 961.5,1066.7734 951.5,1070.7734 955.5,1066.7734 "
+         style="stroke:#191970;stroke-width:1"
+         id="polygon1563" />
+      <line
+         style="stroke:#191970;stroke-width:1"
+         x1="297"
+         x2="957.5"
+         y1="1066.7734"
+         y2="1066.7734"
+         id="line1565" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="86"
+         x="304"
+         y="1061.7075"
+         id="text1567">withdrawEth()</text>
+      <path
+         d="m 47,1045.6406 v 25 h 241 v -15 l -10,-10 H 47"
+         fill="#fbfb77"
+         filter="url(#ft4j05axqvemi)"
+         style="stroke:#a80036;stroke-width:1"
+         id="path1569" />
+      <path
+         d="m 278,1045.6406 v 10 h 10 l -10,-10"
+         fill="#fbfb77"
+         style="stroke:#a80036;stroke-width:1"
+         id="path1571" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="220"
+         x="53"
+         y="1062.7075"
+         id="text1573">adminwallet-bal = 9.99343276 eth</text>
+      <!--MD5=[2f85541defd621dfa5dcdd6c0509f9cd]
+@startuml
+
+skinparam sequence {
+ArrowColor MidnightBlue
+ActorBorderColor MidnightBlue
+LifeLineBorderColor MidnightBlue
+LifeLineBackgroundColor #A9DCDF
+
+ParticipantBorderColor MidnightBlue
+ParticipantBackgroundColor snow
+ParticipantFontSize 17
+ParticipantFontColor MidnightBlue
+
+ActorBackgroundColor aqua
+ActorFontColor MidnightBlue
+ActorFontSize 17
+}
+
+actor AdminWallet
+participant "TimeLock-Test" as tapp
+participant "kovan testnet" as tnet
+participant "TimeLockAttack.sol (Malicious)" as tatck
+participant "TimeLock.sol (Victim)" as tlck
+
+' Deploy Contracts
+
+== Deploy Victim Contract ==
+
+tapp -> tnet: deploy( TimeLock.sol )
+
+note left
+adminwallet-bal = 9.9979632 eth
+end note
+
+tapp -> tlck: sendTransaction( 2 eth )
+
+note left
+adminwallet-bal = (9.9979632 - 2) eth
+adminwallet-bal = 7.997783024 eth
+end note
+
+== Deploy Malicious Contract ==
+
+tapp -> tnet: deploy( TimeLockAttack.sol )
+tapp -> tatck: sendTransaction( 2 eth )
+
+note left
+adminwallet-bal = (7.997783024 - 2) eth
+adminwallet-bal = 5.993891928 eth
+end note
+
+== Call PWN function in Malicious Contract ==
+
+tapp -> tatck: pwnTimeLock( 1 eth )
+activate tatck
+
+note left
+adminwallet-bal = (x - 1) eth
+end note
+
+tatck -> tlck: deposit( 1 eth )
+activate tlck
+
+note right
+Update the deposit
+TimeStamp
+end note
+
+tlck -> tatck:
+deactivate tlck
+
+tatck -> tlck: ts = getDepositTimeStamp( )
+activate tlck
+
+tlck -> tatck:
+deactivate tlck
+
+tatck -> tatck:
+note right
+Compute value to
+overflow TimeStamp
+v2oflw = type(uint256),max - (ts -1)
+end note
+
+tatck -> tlck: increaseLockTime( v2oflw )
+activate tlck
+
+note right
+LockTime is forced to 0
+end note
+
+tlck -> tatck:
+deactivate tlck
+
+tatck -> tlck: remittBalance(  )
+activate tlck
+
+note right
+attack/malicious withdraw
+by making LockTime
+To 0
+end note
+
+tlck -> tatck:
+deactivate tlck
+
+tatck -> tapp:
+deactivate tatck
+
+note left
+adminwallet-bal = 5.993891928 eth
+end note
+
+== Check contract balance after PWN function ==
+
+tapp -> tatck: checkBalance()
+
+note right
+expected is 3 eth
+but seeing only 2 eth
+from trace
+end note
+
+tapp -> tlck: checkBalance()
+
+note right
+As expected seeing
+2 eth
+end note
+
+== Check contract balance @ exit ==
+
+tapp -> tatck: withdrawEth()
+
+tapp -> tlck: withdrawEth()
+
+note left
+adminwallet-bal = 9.99343276 eth
+end note
+
+@enduml
+
+@startuml
+
+skinparam sequence {
+ArrowColor MidnightBlue
+ActorBorderColor MidnightBlue
+LifeLineBorderColor MidnightBlue
+LifeLineBackgroundColor #A9DCDF
+
+ParticipantBorderColor MidnightBlue
+ParticipantBackgroundColor snow
+ParticipantFontSize 17
+ParticipantFontColor MidnightBlue
+
+ActorBackgroundColor aqua
+ActorFontColor MidnightBlue
+ActorFontSize 17
+}
+
+actor AdminWallet
+participant "TimeLock-Test" as tapp
+participant "kovan testnet" as tnet
+participant "TimeLockAttack.sol (Malicious)" as tatck
+participant "TimeLock.sol (Victim)" as tlck
+
+
+== Deploy Victim Contract ==
+
+tapp -> tnet: deploy( TimeLock.sol )
+
+note left
+adminwallet-bal = 9.9979632 eth
+end note
+
+tapp -> tlck: sendTransaction( 2 eth )
+
+note left
+adminwallet-bal = (9.9979632 - 2) eth
+adminwallet-bal = 7.997783024 eth
+end note
+
+== Deploy Malicious Contract ==
+
+tapp -> tnet: deploy( TimeLockAttack.sol )
+tapp -> tatck: sendTransaction( 2 eth )
+
+note left
+adminwallet-bal = (7.997783024 - 2) eth
+adminwallet-bal = 5.993891928 eth
+end note
+
+== Call PWN function in Malicious Contract ==
+
+tapp -> tatck: pwnTimeLock( 1 eth )
+activate tatck
+
+note left
+adminwallet-bal = (x - 1) eth
+end note
+
+tatck -> tlck: deposit( 1 eth )
+activate tlck
+
+note right
+Update the deposit
+TimeStamp
+end note
+
+tlck -> tatck:
+deactivate tlck
+
+tatck -> tlck: ts = getDepositTimeStamp( )
+activate tlck
+
+tlck -> tatck:
+deactivate tlck
+
+tatck -> tatck:
+note right
+Compute value to
+overflow TimeStamp
+v2oflw = type(uint256),max - (ts -1)
+end note
+
+tatck -> tlck: increaseLockTime( v2oflw )
+activate tlck
+
+note right
+LockTime is forced to 0
+end note
+
+tlck -> tatck:
+deactivate tlck
+
+tatck -> tlck: remittBalance(  )
+activate tlck
+
+note right
+attack/malicious withdraw
+by making LockTime
+To 0
+end note
+
+tlck -> tatck:
+deactivate tlck
+
+tatck -> tapp:
+deactivate tatck
+
+note left
+adminwallet-bal = 5.993891928 eth
+end note
+
+== Check contract balance after PWN function ==
+
+tapp -> tatck: checkBalance()
+
+note right
+expected is 3 eth
+but seeing only 2 eth
+from trace
+end note
+
+tapp -> tlck: checkBalance()
+
+note right
+As expected seeing
+2 eth
+end note
+
+== Check contract balance @ exit ==
+
+tapp -> tatck: withdrawEth()
+
+tapp -> tlck: withdrawEth()
+
+note left
+adminwallet-bal = 9.99343276 eth
+end note
+
+@enduml
+
+PlantUML version 1.2020.10(Sun May 17 15:05:57 IST 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 14.0.1+7-Ubuntu-1ubuntu1
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: IN
+-->
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="mark">
+    <ellipse
+       style="fill:none;fill-rule:evenodd;stroke:#bf360c;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:1.5,0.5;stroke-dashoffset:0"
+       id="path1765"
+       cx="359.23288"
+       cy="106.35241"
+       rx="74.897705"
+       ry="32.617424" />
+    <ellipse
+       style="fill:none;fill-rule:evenodd;stroke:#bf360c;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:1.5,0.5;stroke-dashoffset:0"
+       id="ellipse1767"
+       cx="346.26364"
+       cy="210.28726"
+       rx="47.869759"
+       ry="34.493145" />
+    <ellipse
+       style="fill:none;fill-rule:evenodd;stroke:#bf360c;stroke-width:0.387951;stroke-miterlimit:4;stroke-dasharray:1.16385, 0.387951;stroke-dashoffset:0"
+       id="ellipse1769"
+       cx="511.19122"
+       cy="234.69087"
+       rx="47.925743"
+       ry="20.741455" />
+  </g>
+</svg>
